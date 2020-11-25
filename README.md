@@ -17,3 +17,6 @@ Both project drivers accept `stdin` as their input. Meaning there are a variety 
 * `echo "2+2=6" | python projectOne.py`
 * Input directly from console
   + Note: `ProjectTwo.py` requires you press CTRL+D after completing your program input in order to run.
+
+## Additional Notes
+When `projectTwo.py` is first executed, the console output will include information about LALR table generation. This will not be included on later runs and will not impact performance.
