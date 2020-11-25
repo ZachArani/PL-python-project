@@ -12,7 +12,7 @@ There are three main files contained within the project.
 ## Execution instructions
 Both project drivers accept `stdin` as their input. Meaning there are a variety of ways to input data:
 
-* `projectTwo.py < inputData.txt`
-* `echo "data" | projectOne.py`
+* `python projectTwo.py < inputData.txt`
+* `echo "2+2=6" | python projectOne.py`
 * Input directly from console
   + Note: `ProjectTwo.py` requires you press CTRL+D after completing your program input in order to run.
