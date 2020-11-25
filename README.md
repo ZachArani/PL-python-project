@@ -1,2 +1,2 @@
 # PL-python-project
-Conversion of basic parsing/lexer to PLY from C
+Conversion of basic parser/lexer to PLY from C
